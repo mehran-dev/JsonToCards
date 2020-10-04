@@ -1,0 +1,90 @@
+{
+	"events": [
+		{
+			"selecteddate": "MM/dd/YYYY",
+			"Meetings": [
+				{
+					{
+						"meetingid": "12354648887",
+						"meetingname": "Clean Code: to be or not to be",
+						"organizer": "Robert C Martin",
+						"time": "16:30-18:30",
+						"isfree": "yes",
+						"subscriptionneeded": "no"
+					},
+					{
+						"meetingid": "1287648887",
+						"meetingname": "میت آپ کنتیکو در گذر زمان",
+						"organizer": "محمد فرامرزی",
+						"time": "11:30-13:30",
+						"isfree": "yes",
+						"subscriptionneeded": "yes"
+					},
+					{
+						"meetingid": "951546481787",
+						"meetingname": "جلسه کارگروه مبارزه با پولشویی",
+						"organizer": "بابک زنجانی - اکبر طبری",
+						"time": "14:00-15:30",
+						"isfree": "no",
+						"subscriptionneeded": "yes"
+			 "subscribed": "yes"
+					}
+				}
+			],
+			"Webinars": [
+				{
+					{
+						"wid": "951546481787",
+						"wname": "مبانی اختلاس 1",
+						"presenter": "محمود رضا خاوری",
+						"time": "14:00-15:30",
+						"isfree": "no",
+						"subscriptionneeded": "yes",
+						"subscribed": "yes"
+					},
+					{
+						"wid": "951546481787",
+						"wname": "Wirtschaft im Gesselschaft",
+						"presenter": "Karl Marx",
+						"time": "18:00-19:30",
+						"isfree": "no",
+						"subscriptionneeded": "yes"
+					}
+				}
+			],
+			"Podcasts": [
+				{
+					{
+						"id": "5555648464641",
+						"nm": "پادکست سکه - اپیزود 33",
+						"host": "Dr. Mehdi Naji",
+						"place": "University of Tehran - Faculty of Economics"
+					},
+					{
+						"id": "5555648464641",
+						"nm": "Never without Mashayi",
+						"host": "Dr. Mamooti Ahmadi nejad",
+						"place": "Naarmak",
+						"hazards": "lebas shakhsi ha"
+					}
+				}
+			],
+			"برخورد نزدیک از نوع سوم": [
+				{
+					{
+						"id": "98465132131654",
+						"race": "Worgs",
+						"mission": "Invade and destroy",
+						"receivingparty": "Potus and Co."
+					},
+					{
+						"id": "75569846681659",
+						"race": "Angels",
+						"mission": "message of peace",
+						"receivingparty": "Pope, Dalai Lama and Richard Dawkins"
+					}
+				}
+			]
+		}
+	]
+}

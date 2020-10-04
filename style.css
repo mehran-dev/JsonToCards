@@ -1,0 +1,128 @@
+.title {
+    text-align: center;
+    color     : #777;
+}
+
+.singleLink {
+    margin          : 18px 6px;
+    background-color: #fff;
+    border          : 3px double grey;
+    display         : flex;
+    justify-content : space-between;
+    align-items     : center;
+    align-content   : space-between;
+    border-radius   : 3px;
+    display         : flex;
+    justify-content : space-between;
+    align-content   : space-between;
+    align-items     : center;
+    box-shadow      : 3px 3px 4px #999;
+}
+
+
+.mn {
+    padding         : 3px;
+    max-width       : 200px;
+    padding         : 12px;
+    background-color: rgb(255, 255, 255);
+    flex-basis      : 20%;
+    font-weight     : bold;
+    font-size       : medium;
+    color           : #333;
+}
+
+.desc {
+    flex-basis: 50%;
+    text-align: right;
+    font-size : smaller;
+    color     : #555;
+}
+
+.button {
+    flex-basis     : 80px;
+    margin         : 3px;
+    padding        : 12px;
+    border-radius  : 6px;
+    text-align     : center;
+    border         : 1px solid grey;
+    transition     : all 0.2s ease;
+    cursor         : pointer;
+    text-decoration: none;
+    color          : #333;
+}
+
+.button:hover {
+    color           : #fff;
+    background-color: #052c05;
+    border-color    : green;
+}
+
+
+
+
+
+
+
+.wCtr {
+    background-color: #fff;
+    display         : flex;
+    justify-content : space-between;
+    align-content   : space-between;
+    align-items     : center;
+    border          : 3px double grey;
+    padding         : 12px;
+    margin          : 18px 6px;
+    box-shadow      : 3px 3px 4px #999;
+
+}
+
+.wn {
+    padding      : 10px;
+    border-radius: 6px;
+    flex-basis   : 20%;
+    font-weight  : bold;
+    font-size    : medium;
+    color        : #333;
+}
+
+.wDesc {
+    text-align: right;
+    flex-basis: 50%;
+    font-size : smaller;
+    color     : #555;
+}
+
+.wButton {
+    width          : 80px;
+    padding        : 10px;
+    border-radius  : 6px;
+    color          : #555;
+    border         : 1px solid #555;
+    text-align     : center;
+    cursor         : pointer;
+    transition     : all 0.2s ease;
+    text-decoration: none;
+
+}
+
+.wButton:hover {
+    color           : #ccc;
+    background-color: #052c05;
+    border-color    : green;
+
+}
+
+.disabled {
+    color           : #fff;
+    background-color: #999;
+    cursor          : not-allowed;
+    border-color    : #999 !important;
+
+}
+
+.disabled:hover {
+    color           : #fff !important;
+    background-color: #999 !important;
+    cursor          : not-allowed !important;
+    border-color    : #999 !important;
+}
